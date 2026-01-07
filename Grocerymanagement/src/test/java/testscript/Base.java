@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeMethod;
 
 public class Base {
 	public WebDriver driver;
+	
 	@BeforeMethod
 	public void browserInitialization()
 	{
@@ -15,6 +16,7 @@ public class Base {
 		driver.manage().window().maximize();
 		
 	}
+	
 	@AfterMethod
 	public void browserQuit()
 	{

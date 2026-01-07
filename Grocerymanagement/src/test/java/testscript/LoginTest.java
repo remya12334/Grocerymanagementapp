@@ -1,12 +1,9 @@
 package testscript;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
 import pages.LoginPage;
 
-public class LoginTest extends Base {
-	
+public class LoginTest extends Base {	
 @Test	
 public void checkUsesrisAbleToLoginWithValidCredentials()	
 {
@@ -21,4 +18,5 @@ public void checkUsesrisAbleToLoginWithValidCredentials()
 	Assert.assertTrue(isHomepageDisplayed);
 
 }
+
 }
