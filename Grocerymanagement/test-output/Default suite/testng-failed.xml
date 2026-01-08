@@ -7,6 +7,7 @@
         <methods>
           <include name="checkUsesrisAbleToLoginWithValidCredentials"/>
           <include name="browserInitialization"/>
+          <include name="browserQuit"/>
         </methods>
       </class> <!-- testscript.LoginTest -->
     </classes>

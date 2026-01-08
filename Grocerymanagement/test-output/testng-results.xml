@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-07T20:12:52 IST" name="Default suite" finished-at="2026-01-07T20:13:06 IST" duration-ms="14111">
+  <suite started-at="2026-01-08T13:26:56 IST" name="Default suite" finished-at="2026-01-08T13:27:07 IST" duration-ms="10952">
     <groups>
     </groups>
-    <test started-at="2026-01-07T20:12:52 IST" name="Default test" finished-at="2026-01-07T20:13:06 IST" duration-ms="14111">
+    <test started-at="2026-01-08T13:26:56 IST" name="Default test" finished-at="2026-01-08T13:27:07 IST" duration-ms="10952">
       <class name="testscript.LoginTest">
-        <test-method is-config="true" signature="browserInitialization()[pri:0, instance:testscript.LoginTest@31190526]" started-at="2026-01-07T20:12:52 IST" name="browserInitialization" finished-at="2026-01-07T20:13:01 IST" duration-ms="8657" status="PASS">
+        <test-method is-config="true" signature="browserInitialization()[pri:0, instance:testscript.LoginTest@662ac478]" started-at="2026-01-08T13:26:56 IST" name="browserInitialization" finished-at="2026-01-08T13:27:02 IST" duration-ms="6436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserInitialization -->
-        <test-method signature="checkUsesrisAbleToLoginWithValidCredentials()[pri:0, instance:testscript.LoginTest@31190526]" started-at="2026-01-07T20:13:01 IST" name="checkUsesrisAbleToLoginWithValidCredentials" finished-at="2026-01-07T20:13:05 IST" duration-ms="4241" status="PASS">
+        <test-method signature="checkUsesrisAbleToLoginWithValidCredentials()[pri:0, instance:testscript.LoginTest@662ac478]" started-at="2026-01-08T13:27:02 IST" name="checkUsesrisAbleToLoginWithValidCredentials" finished-at="2026-01-08T13:27:06 IST" duration-ms="3926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkUsesrisAbleToLoginWithValidCredentials -->
-        <test-method is-config="true" signature="browserQuit()[pri:0, instance:testscript.LoginTest@31190526]" started-at="2026-01-07T20:13:05 IST" name="browserQuit" finished-at="2026-01-07T20:13:06 IST" duration-ms="1124" status="PASS">
+        <test-method is-config="true" signature="browserQuit()[pri:0, instance:testscript.LoginTest@662ac478]" started-at="2026-01-08T13:27:06 IST" name="browserQuit" finished-at="2026-01-08T13:27:07 IST" duration-ms="523" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserQuit -->
